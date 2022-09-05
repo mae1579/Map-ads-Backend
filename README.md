@@ -86,7 +86,7 @@ Start the server
 <p></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://res.cloudinary.com/headhunter/image/upload/v1660400914/MegaK/mysql-logo_egmkfp.jpg" alt="mysql" height="40" width="60" /></a></p>
 
 
-##Screenshots 📷
+## Screenshots 📷
 
 <h4>Add ads</h4>
 <a href="https://files.fm/u/mhgu5g4nj#/view/Dodawanie%20ogloszenia.PNG"><img src="https://files.fm/thumb_show.php?i=yte3y5cp5"></a>
