@@ -86,16 +86,14 @@ Start the server
 
 ##Screenshots 📷
 
-<h4>Home</h4>
+<h4>Add ads</h4>
+<a href="https://files.fm/u/mhgu5g4nj#/view/Dodawanie%20ogloszenia.PNG"><img src="https://files.fm/thumb_show.php?i=yte3y5cp5"></a>
 
 
-<h4>Rejestracja/Register</h4>
+<h4>Show ads on the map</h4>
+<a href="https://files.fm/u/mhgu5g4nj#/view/pineski%20v1.PNG"><img src="https://files.fm/thumb_show.php?i=9qeb4fgut"></a>
 
-
-<h4>Chat</h4>
-
-
-
-<h4>Wylogowanie/Logout</h4>
+<h4>show a specific advertisement</h4>
+<a href="https://files.fm/u/mhgu5g4nj#/view/pineska.PNG"><img src="https://files.fm/thumb_show.php?i=t3wgpbs7h"></a>
 
 
