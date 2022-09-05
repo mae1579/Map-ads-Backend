@@ -15,12 +15,6 @@ The basic functionality of the application is adding adverts on the map in order
 </ul>
 
 
-Using the mysql database
-Adding an advertisement
-Search for adverts on the map
-Using the active-record method
-and many others.
-
 The application consists of two repositories:
 <ul>
   <li>Back-end:https://github.com/mae1579/Map-ads-Backend </li>
