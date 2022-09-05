@@ -5,12 +5,12 @@ The application was created while learning at megaK (https://www.megak.pl/).
 The basic functionality of the application is adding adverts on the map in order to easier locate offers all over the world .
 
 ## Application functionalities:
--Using the Leaflet api
--Using the mysql database
--Adding an advertisement
--Search for adverts on the map
--Using the active-record method
-- and many others.
+Using the Leaflet api
+Using the mysql database
+Adding an advertisement
+Search for adverts on the map
+Using the active-record method
+and many others.
 
 The application consists of two repositories:
 <ul>
