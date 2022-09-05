@@ -6,7 +6,15 @@ The basic functionality of the application is adding adverts on the map in order
 
 ## Application functionalities:
 
-Using the Leaflet api
+<ul>
+  <li>Using the Leaflet api</li>
+  <li>Using the mysql database</li>
+  <li>Search for adverts on the map</li>
+  <li>Using the active-record method</li>
+  <li>and many others.</li>
+</ul>
+
+
 Using the mysql database
 Adding an advertisement
 Search for adverts on the map
