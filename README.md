@@ -28,6 +28,8 @@ The application consists of two repositories:
 
 ## Setup ⚙️
 <p>extract the back-end and front-end to the same forder</p>
+
+
 ## BACKEND
 
 Clone the project
